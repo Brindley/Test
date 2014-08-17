@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>17f13876-5cbf-4aef-ba61-5baa39d14abe</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>lai.jpg</DisplayName>
+    <PathInsideRepo>Images</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>c29d7b8c-07eb-4f26-a1f5-9fe87de8d08f</guid>
+    <guid>3c87e4e0-ec12-4d07-a6d3-ae0e9edaff46</guid>
+  </Tags>
+</FolderEntryTags>
