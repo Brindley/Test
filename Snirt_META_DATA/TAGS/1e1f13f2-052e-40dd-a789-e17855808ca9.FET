@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Id>1e1f13f2-052e-40dd-a789-e17855808ca9</Id>
   <FolderEntry>
     <EntryType>File</EntryType>
@@ -11,8 +11,8 @@
     <FolderEntryView>Thumbnail</FolderEntryView>
   </FolderEntry>
   <Tags>
-    <guid>db16a659-3891-436d-bd66-d6ca0df32e91</guid>
     <guid>56285706-f18a-4822-9780-d421c6349458</guid>
     <guid>d1c1b0f3-fd33-4496-b156-baa686d59976</guid>
+    <guid>c823eefb-343a-49da-9836-260d408e213e</guid>
   </Tags>
 </FolderEntryTags>
