@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>780480e4-b982-4942-9151-b07bd854f53b</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>PPTTest2.pptx</DisplayName>
+    <PathInsideRepo>PowerPoint</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test_NH</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>799758a0-18d1-4336-bd72-450967a22581</guid>
+    <guid>d1c1b0f3-fd33-4496-b156-baa686d59976</guid>
+    <guid>e8646fb9-0c53-44b6-a032-09b489e56d8f</guid>
+  </Tags>
+</FolderEntryTags>
