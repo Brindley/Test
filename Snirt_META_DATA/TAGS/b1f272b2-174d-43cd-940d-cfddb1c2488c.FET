@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>b1f272b2-174d-43cd-940d-cfddb1c2488c</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Big Idea.pptx</DisplayName>
+    <PathInsideRepo>PowerPoint</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>353e68ad-7187-4a7e-9897-4edd9b15bf38</guid>
+    <guid>887d61e6-c9c1-4efa-8d3c-4d9f53fa66d2</guid>
+    <guid>97fecf07-638d-4a1c-bba7-d4f9d599640a</guid>
+    <guid>4b4322bf-b86e-4878-b05b-d82938fb1fbf</guid>
+  </Tags>
+</FolderEntryTags>
