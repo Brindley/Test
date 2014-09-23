@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>c2e3540b-05f8-4a0a-a676-c6a236a09ebc</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Marketing Budget.xlsx</DisplayName>
+    <PathInsideRepo>Excel</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>0fbcede7-0e41-41a0-9a0f-144ce512e7d8</guid>
+    <guid>4b4322bf-b86e-4878-b05b-d82938fb1fbf</guid>
+  </Tags>
+</FolderEntryTags>
