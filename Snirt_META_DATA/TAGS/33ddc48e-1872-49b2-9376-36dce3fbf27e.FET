@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>33ddc48e-1872-49b2-9376-36dce3fbf27e</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>EULA.docx</DisplayName>
+    <PathInsideRepo>Word</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>f8fff0ff-0d12-471d-927b-6d8b3769304f</guid>
+    <guid>b1b96b4c-1d44-46e1-bfe5-7e059446b044</guid>
+  </Tags>
+</FolderEntryTags>
