@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>258bf893-e0e5-4ca5-90cb-7089a9816eec</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Bessy.jpg</DisplayName>
+    <PathInsideRepo>Images</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>0fbcede7-0e41-41a0-9a0f-144ce512e7d8</guid>
+    <guid>3ce927b0-3631-4bf0-a77f-c28153e79258</guid>
+    <guid>4b4322bf-b86e-4878-b05b-d82938fb1fbf</guid>
+  </Tags>
+</FolderEntryTags>
