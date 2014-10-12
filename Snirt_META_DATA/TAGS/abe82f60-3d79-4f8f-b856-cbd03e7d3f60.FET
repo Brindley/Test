@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>abe82f60-3d79-4f8f-b856-cbd03e7d3f60</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Work schedule.xlsx</DisplayName>
+    <PathInsideRepo>Excel</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>c0281b3f-5d61-456e-9189-aab04596d300</guid>
+    <guid>0fbcede7-0e41-41a0-9a0f-144ce512e7d8</guid>
+    <guid>353e68ad-7187-4a7e-9897-4edd9b15bf38</guid>
+  </Tags>
+</FolderEntryTags>
