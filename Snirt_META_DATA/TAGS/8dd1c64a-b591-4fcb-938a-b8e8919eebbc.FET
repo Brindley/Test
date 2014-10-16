@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>8dd1c64a-b591-4fcb-938a-b8e8919eebbc</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Excel test3.xlsx</DisplayName>
+    <PathInsideRepo>Excel</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\Snirt\Test</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>0fbcede7-0e41-41a0-9a0f-144ce512e7d8</guid>
+    <guid>353e68ad-7187-4a7e-9897-4edd9b15bf38</guid>
+    <guid>3ce927b0-3631-4bf0-a77f-c28153e79258</guid>
+  </Tags>
+</FolderEntryTags>
